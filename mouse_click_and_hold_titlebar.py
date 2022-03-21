@@ -11,3 +11,5 @@ while pyautogui.position() == old:
 pyautogui.mouseUp(button='left')
 pyautogui.moveTo(start)
 quit()
+
+# this is a comment : - )
